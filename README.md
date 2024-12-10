@@ -1,2 +1,3 @@
-# basic-informational-site
-Project: Basic Informational Site
+# Project: Basic Informational Site
+
+Basic site created using NodeJS.
